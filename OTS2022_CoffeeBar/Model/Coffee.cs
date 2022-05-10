@@ -8,7 +8,7 @@ namespace OTS2022_CoffeeBar.Model
 {
     public class Coffee
     {
-        public CoffeeSize CreateCoffee(string coffeeType, string extraMilk, bool whiteChocolate, bool darkChocolate)
+        public CoffeeSize CreateCoffee(string coffeeType, double milliliters, string extraMilk, bool whiteChocolate, bool darkChocolate)
         {
             return 0;
         }
